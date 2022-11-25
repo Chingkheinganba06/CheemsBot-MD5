@@ -14,26 +14,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['918414802914'] //ur owner number
+global.ownername = "変tai Guy" //ur owner name
+global.ytname = "変tai Guy" //ur yt chanel name
+global.socialm = "_.chingkheinganba._" //ur github or insta name
+global.location = "India, Manipur, Imphal west" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213'] //ur number
-global.ownernomer = "916909137213" //ur number
-global.ownertag = '916909137213' //ur tag number
-global.premium = ['916909137213'] //ur premium number
-global.botname = 'Cheems Bot V5' //ur bot name
-global.ownername = "🦄Dream Guy Xeon"
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD5' //script link
-global.themeemoji = "🦄" //ur theme emoji
+global.owner = ['918414802914'] //ur number
+global.ownernomer = "918414802914" //ur number
+global.ownertag = '918414802914' //ur tag number
+global.premium = ['918414802914'] //ur premium number
+global.botname = 'Horel ft. Peldae' //ur bot name
+global.ownername = "変tai Guy"
+global.linkz = "https://youtube.com/@mikeyo2322" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/@mikeyo2322" //ur website to be displayed
+global.botscript = 'https://github.com/Chingkheinganba06/CheemsBot-MD5' //script link
+global.themeemoji = "⚓️" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Cheems Bot" //ur sticker watermark author
-global.wm = "Xeon Bot Inc." //ur watermark
+global.author = "変tai Guy" //ur sticker watermark author
+global.wm = "eigi sticker" //ur watermark
 
 // Other
 global.sessionName = 'session'
